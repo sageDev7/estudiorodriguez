@@ -40,7 +40,7 @@ def page(fn, title, desc, body, activo=None):
             f'<meta name="description" content="{desc}">\n<meta name="theme-color" content="#18191B">\n'
             f'<meta property="og:type" content="website">\n<meta property="og:locale" content="es_AR">\n'
             f'<meta property="og:site_name" content="Estudio Jurídico Rodríguez">\n<meta property="og:title" content="{title}">\n'
-            f'<meta property="og:description" content="{desc}">\n<meta property="og:image" content="https://i.imgur.com/SOpzsgy.png">\n'
+            f'<meta property="og:description" content="{desc}">\n<meta property="og:image" content="https://i.imgur.com/oLm8uv9.png">\n'
             f'<meta name="twitter:card" content="summary">\n'
             + links_head + "</head>\n<body>\n\n" + t + "<main>\n" + body + "\n</main>\n\n" + foot_i + scripts + "</body>\n</html>\n")
     (D / fn).write_text(html, encoding="utf8", newline="\n")
