@@ -1,0 +1,13 @@
+{
+  "sitio": "Estudio Jurídico Rodríguez",
+  "titulo_corto": "Estudio Jurídico Rodríguez",
+  "responsable": "el Estudio Jurídico Rodríguez, a cargo del Dr. Luis Rodríguez y el Dr. Manuel Rodríguez",
+  "domicilio": "8 de Junio 835, Concepción del Uruguay, Entre Ríos",
+  "email": "",
+  "telefono": "+54 9 3442 40-7239",
+  "persona": "nosotros",
+  "formulario": false,
+  "btn": "btn-oro",
+  "theme_color": "#18191B",
+  "css": {"fondo": "var(--bg-alt)", "fondo_hero": "var(--dark)", "texto_hero": "var(--bg-alt)", "acento": "var(--oro-t)", "muted": "var(--muted)", "titulos": "var(--head)"}
+}
